@@ -1,2 +1,9 @@
 # Roll-a-ball
-Unity Begginer Course. Roll a ball game.
+Unity Beginner Course. Roll a ball game.
+
+Additional things added:
+Improved environment
+Added music and sound effects
+Added dash ability
+Added Freeze PickUp
+Simple menu with restart game
